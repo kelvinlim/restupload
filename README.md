@@ -13,4 +13,16 @@ https://roytuts.com/how-to-download-file-using-python-flask/
 
 https://realpython.com/flask-google-login/ # implementing google login
 
+Use nginx to serve the files!
+
+location /{ 
+   root /home/yozloy/html/; 
+   index index.html; 
+   autoindex on;
+}
+
+Need to have rest api store files in the filesystem
+Have that specified in docker volume?
+
+
 
