@@ -10,3 +10,7 @@ lnpitest.northcentralus.cloudapp.azure.com
 https://docs.faculty.ai/user-guide/apis/flask_apis/flask_file_upload_download.html
 
 https://roytuts.com/how-to-download-file-using-python-flask/
+
+https://realpython.com/flask-google-login/ # implementing google login
+
+
