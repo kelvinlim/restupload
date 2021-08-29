@@ -2,7 +2,7 @@
 
 from flask import Flask
 
-UPLOAD_FOLDER = 'uploads/'
+UPLOAD_FOLDER = '/var/www/html/uploads/'
 
 app = Flask(__name__)
 app.secret_key = "secret key"

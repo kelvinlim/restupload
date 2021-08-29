@@ -23,7 +23,6 @@ Pygments==2.9.0
 python-dateutil==2.8.1
 pyzmq==22.1.0
 six==1.16.0
-spyder-kernels==2.0.5
 tornado==6.1
 traitlets==5.0.5
 wcwidth==0.2.5
